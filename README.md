@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ... Italian, Mechanical Engineering, HTML, CSS, JavaScript.
 - 💞️ I’m looking to collaborate on ... I'm working individually for the time being.
 - 📫 How to reach me ... I'll update this later.
-- 😄 Pronouns: ... I'll update this later.
 - ⚡ Fun fact: ... I'll update this later.
 
 <!---
